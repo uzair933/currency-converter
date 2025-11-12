@@ -1,0 +1,15 @@
+{
+  "name": "p1",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel currencyapp.html",
+    "build": "parcel build currencyapp.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  }
+}

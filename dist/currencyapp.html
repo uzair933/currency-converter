@@ -1,0 +1,87 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Converter</title>
+    <script type="module" src="/currencyapp.d312f45a.js"></script>
+    <style>body {
+  color: #fff;
+  background: linear-gradient(135deg, #3b82f6, #9333ea);
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  display: flex;
+}
+
+.converter-box {
+  text-align: center;
+  background: #ffffff26;
+  border-radius: 20px;
+  width: 320px;
+  padding: 30px;
+  box-shadow: 0 4px 10px #0000004d;
+}
+
+h2 {
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+
+input, select, button {
+  border: none;
+  border-radius: 8px;
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 16px;
+}
+
+input, select {
+  color: #333;
+  background: #fff;
+}
+
+button {
+  color: #fff;
+  cursor: pointer;
+  background: #10b981;
+  font-weight: bold;
+  transition: background .3s;
+}
+
+button:hover {
+  background: #059669;
+}
+
+.result {
+  margin-top: 15px;
+  font-size: 18px;
+  font-weight: bold;
+}
+</style>
+</head>
+
+<body>
+
+    <div class="converter-box">
+        <h2>Currency Converter</h2>
+        <input id="input" type="number" placeholder="Enter amount">
+        <select id="fromCurrency">
+            <option>USD</option>
+            <option>AUD</option>
+            <option>EUR</option>
+            <option>INR</option>
+        </select>
+        <select id="toCurrency">
+            <option>AUD</option>
+            <option>USD</option>
+            <option>EUR</option>
+            <option>INR</option>
+        </select>
+        <button id="convertButton">Convert</button>
+        <div id="result">Result will appear here</div>
+    </div>
+
+
+
+</body></html>
