@@ -1,18 +1,12 @@
-3528
+3529
+117C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.abi115.node134074016259278323 0
+87C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\regions\BE.js134074016448014365 0
+47C:\Users\hp\Desktop\process\Practice\js\p1\dist134074196753192191 1
 90C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\core\lib\serializerCore.js134074016547962578 0
 84C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\node-releases\data\processed134074016210465862 1
 71C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\detect-libc\bin134074016252182117 1
 98C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\features\border-image.js134074016480786162 0
 55C:\Users\hp\Desktop\process\Practice\js\p1\example.html134073948181819910 0
-59C:\Users\hp\Desktop\process\Practice\js\p1\currencyapp.html134074013020948132 0
-83C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\semver\functions\compare.js134074016321755437 0
-83C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\config-default\test134074016251105536 1
-108C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@swc\helpers\_\_interop_require_default\package.json134074016662785306 0
-81C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\optimizer-svg\src134074016254462144 1
-60C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@swc134074016859942960 1
-117C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.abi115.node134074016259278323 0
-87C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\regions\BE.js134074016448014365 0
-47C:\Users\hp\Desktop\process\Practice\js\p1\dist134074191629286972 1
 71C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\semver\index.js134074016364258025 0
 123C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0\package.json134074016412740759 0
 63C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\is-glob134074016238162671 1
@@ -24,7 +18,7 @@
 94C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@swc\helpers\esm\_iterable_to_array.js134074016546122788 0
 84C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\msgpackr-extract\binding.gyp134074016227862486 0
 87C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\regions\PH.js134074016733432930 0
-53C:\Users\hp\Desktop\process\Practice\js\p1\index.html134072630313583414 0
+53C:\Users\hp\Desktop\process\Practice\js\p1\index.html134074013020948132 0
 109C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\react-refresh\cjs\react-refresh-runtime.production.js134074016276582578 0
 112C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\msgpackr-extract\node_modules\detect-libc\lib\process.js134074016288018234 0
 86C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\types-internal\LICENSE134074016228172560 0
@@ -34,6 +28,15 @@
 62C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\semver134074016431309661 1
 78C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\term-size\package.json134074016300517895 0
 55C:\Users\hp\Desktop\process\Practice\js\p1\node_modules134074016868987984 1
+87C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\regions\PW.js134074016739112375 0
+111C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\lmdb\node_modules\node-addon-api\tools\eslint-format.js134074016342951091 0
+65C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\picomatch134074016318720160 1
+97C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\features\shadowdomv1.js134074016744692919 0
+99C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\type-fest\source\union-to-intersection.d.ts134074016409510102 0
+86C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\detect-libc\bin\detect-libc.js134074016260177669 0
+62C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\dotenv134074016325185454 1
+98C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\features\inline-block.js134074016710642884 0
+52C:\Users\hp\Desktop\process\Practice\js\p1\style.css134072630899143932 0
 55C:\Users\hp\Desktop\process\Practice\js\p1\package.json134074019632246717 0
 66C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\base-x\src134074016253241513 1
 90C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\packager-js\lib\helpers.js134074016339901753 0
@@ -44,17 +47,13 @@
 74C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\.package-lock.json134074016870007975 0
 76C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\msgpackr\index.d.cts134074016300687882 0
 60C:\Users\hp\Desktop\process\Practice\js\p1\package-lock.json134074016865432943 0
-65C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\picomatch134074016318720160 1
-97C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\features\shadowdomv1.js134074016744692919 0
-99C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\type-fest\source\union-to-intersection.d.ts134074016409510102 0
-86C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\detect-libc\bin\detect-libc.js134074016260177669 0
-62C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\dotenv134074016325185454 1
-98C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\features\inline-block.js134074016710642884 0
-52C:\Users\hp\Desktop\process\Practice\js\p1\style.css134072630899143932 0
 91C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\features\http2.js134074016707962892 0
 73C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\json5\lib\util.js134074016325905556 0
 60C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\.bin134074016768432942 1
 105C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c134074016469046246 0
+82C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\rust\index.js.flow134074016242042684 0
+61C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\tslib134074016334912275 1
+98C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@swc\helpers\_\_class_apply_descriptor_get134074016615824673 1
 84C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\cache\lib\FSCache.js134074016227722457 0
 93C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\transformer-html\package.json134074016275702340 0
 62C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@lezer134074016107239227 1
@@ -89,6 +88,11 @@
 93C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\features\history.js134074016706132880 0
 94C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\package-manager\lib\index.d.ts134074016428010838 0
 106C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\lightningcss\node_modules\detect-libc\package.json134074016301238207 0
+83C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\semver\functions\compare.js134074016321755437 0
+83C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\config-default\test134074016251105536 1
+108C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@swc\helpers\_\_interop_require_default\package.json134074016662785306 0
+81C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\optimizer-svg\src134074016254462144 1
+60C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@swc134074016859942960 1
 76C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\picocolors\README.md134074016249775564 0
 101C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@swc\helpers\_\_class_call_check\package.json134074016624964694 0
 75C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\lmdb\src\cursor.cpp134074016485547746 0
@@ -241,9 +245,6 @@
 65C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\term-size134074016314049462 1
 105C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\core\test\fixtures\custom-targets-distdir134074016618444751 1
 87C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\regions\NG.js134074016729252670 0
-82C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\rust\index.js.flow134074016242042684 0
-61C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\tslib134074016334912275 1
-98C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@swc\helpers\_\_class_apply_descriptor_get134074016615824673 1
 105C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\features\css-text-align-last.js134074016662455316 0
 65C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\type-fest134074016343351123 1
 78C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\update-browserslist-db134074016312387864 1
@@ -775,6 +776,7 @@
 92C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\core\src\loadParcelPlugin.js134074016496838886 0
 80C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\semver\functions\diff.js134074016334581423 0
 75C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\micromatch\index.js134074016211875843 0
+62C:\Users\hp\Desktop\process\Practice\js\p1\dist\p1.4559a0f6.js134074196752672494 0
 78C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\semver\functions\eq.js134074016339361073 0
 109C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\lmdb\node_modules\node-addon-api\package-support.json134074016355594474 0
 90C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\features\xhr2.js134074016762152732 0
@@ -1230,8 +1232,6 @@
 110C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\lmdb\node_modules\node-addon-api\tools\clang-format.js134074016338591719 0
 108C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\lmdb\node_modules\node-addon-api\tools\conversion.js134074016340361738 0
 91C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@swc\helpers\_\_array_like_to_array134074016593552938 1
-87C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\regions\PW.js134074016739112375 0
-111C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\lmdb\node_modules\node-addon-api\tools\eslint-format.js134074016342951091 0
 104C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\lmdb\node_modules\node-addon-api\tools\README.md134074016369008040 0
 102C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\features\css-focus-within.js134074016586709534 0
 75C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\packager-js134074016378868981 1
@@ -1295,9 +1295,9 @@
 81C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\dotenv-expand\lib\main.js134074016229722487 0
 110C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c134074016448594931 0
 113C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@swc\helpers\src\_class_static_private_field_spec_set.mjs134074016695242852 0
-120C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@swc\helpers\esm\_class_check_private_static_field_descriptor.js134074016521125466 0
 92C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\features\bigint.js134074016455044329 0
 94C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\features\progress.js134074016738302614 0
+120C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@swc\helpers\esm\_class_check_private_static_field_descriptor.js134074016521125466 0
 114C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\COPYRIGHT134074016226562812 0
 111C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\transformer-posthtml\src\PostHTMLTransformer.js134074016287577857 0
 108C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\features\css-content-visibility.js134074016551960344 0
@@ -3525,5 +3525,6 @@
 83C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\.bin\update-browserslist-db134074016768562867 0
 87C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\.bin\update-browserslist-db.cmd134074016768442927 0
 64C:\Users\hp\Desktop\process\Practice\js\p1\dist\currencyapp.html134074182285981710 0
-58C:\Users\hp\Desktop\process\Practice\js\p1\dist\index.html134074191629006974 0
+58C:\Users\hp\Desktop\process\Practice\js\p1\dist\index.html134074196752902557 0
+66C:\Users\hp\Desktop\process\Practice\js\p1\dist\p1.4559a0f6.js.map134074196753162529 0
 63C:\Users\hp\Desktop\process\Practice\js\p1\dist\p1.8e9aba72.css134074191629006974 0

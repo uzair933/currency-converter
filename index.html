@@ -4,98 +4,91 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bootstrap Navbar</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Currency Converter</title>
+    <script type="module" src="js/scripte.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #3b82f6, #9333ea);
+            color: #fff;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
 
+        .converter-box {
+            background: rgba(255, 255, 255, 0.15);
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+            width: 320px;
+            text-align: center;
+        }
+
+        h2 {
+            margin-bottom: 20px;
+            letter-spacing: 1px;
+        }
+
+        input,
+        select,
+        button {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+        }
+
+        input,
+        select {
+            background: #fff;
+            color: #333;
+        }
+
+        button {
+            background: #10b981;
+            color: #fff;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        button:hover {
+            background: #059669;
+        }
+
+        .result {
+            margin-top: 15px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+    </style>
 </head>
 
-<header>
-    <nav class="header">
-        <nav class="navbar">
-            <div class="div">
-                <img class="logo"
-                    src="https://d21buns5ku92am.cloudfront.net/69645/images/470456-Frame-c061f4-medium-1677657684.png"
-                    alt="">
-                <!-- <i class="fa-brands fa-pied-piper-hat"></i> -->
-                <ul class="nav-list">
-                    <li class="b-button li">Personal</li>
-                    <li class="hower li ">Business</li>
-                    <li class="hower  li">Platform</li>
-
-                </ul>
-                <ul class="nav-2row nav-list">
-                    <li class="hover-white li ">Features<small>▼</small></li>
-                    <li class="hower li ">Pricing</li>
-                    <li class="hower li ">Help</li>
-                    <li class="hower li ">Log in</li>
-                    <button>Register</button>
-                </ul>
-            </div>
-            <div class="hover-tab hidden ">
-                <div class="tab-1">
-                    <img class="tab-img" src="https://wise.com/web-art/assets/illustrations/house-small@2x.webp" alt="">
-                    <p>Explore the features used by millions of people globally</p>
-                </div>
-                <div class="tab-2">
-                    <ul class="tab-list">
-                        <li class="arow-hover">
-                            <a class="link-style" href="https://wise.com/us/account/" target="_blank">
-                                Multi-currency account
-                            </a>
-                        </li>
-                        <li class="arow-hover">
-                            <a class="link-style" href="https://wise.com/us/send-money/" target="_blank">
-                                Send money
-                            </a>
-                        </li>
-                        <li class="arow-hover">
-                            <a class="link-style" href="https://wise.com/us/large-amounts/" target="_blank">
-                                Send large amounts
-                            </a>
-                        </li>
-                        <li class="arow-hover">
-                            <a class="link-style" href="https://wise.com/us/receive-money/" target="_blank">
-                                Receive money
-                            </a>
-                        </li>
-                        <li class="arow-hover">
-                            <a class="link-style" href="https://wise.com/us/card/" target="_blank">
-                                Wise card
-                            </a>
-                        </li>
-                        <li class="arow-hover">
-                            <a class="link-style" href="https://wise.com/us/interest/" target="_blank">
-                                Interest
-                            </a>
-                        </li>
-
-                    </ul>
-                </div>
-            </div>
-
-        </nav>
-        <div class="features">
-            <ul class="nav-list">
-                <!-- <li class="text-bold">Currency Converter</li> -->
-                <li class="">
-                    <h3>Currency Converter</h3>
-                </li>
-                <li class="t-s  li">Browser all conrencies</li>
-                <li class="t-s li ">Get rate alert</li>
-                <li class="t-s  li">Compare bank rate</li>
-            </ul>
-        </div>
-    </nav>
-</header>
-
 <body>
-    <div class="heading">
-        <h1>CURRENCY CONVERTER<br>FOR YOU</h1>
+
+    <div class="converter-box">
+        <h2>Currency Converter</h2>
+        <input id="input" type="number" placeholder="Enter amount" />
+        <select id="fromCurrency">
+            <option>USD</option>
+            <option>AUD</option>
+            <option>EUR</option>
+            <option>INR</option>
+        </select>
+        <select id="toCurrency">
+            <option>AUD</option>
+            <option>USD</option>
+            <option>EUR</option>
+            <option>INR</option>
+        </select>
+        <button id="convertButton">Convert</button>
+        <div id="result">Result will appear here</div>
     </div>
-    <div class="statement">
-        <p>Convert AUD to USD at the mid-market exchange rate. Wise is the international account for sending, spending
-            and converting money like a local.</p>
-    </div>
+
 </body>
 
 </html>

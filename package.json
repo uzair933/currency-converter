@@ -2,8 +2,8 @@
   "name": "p1",
   "version": "1.0.0",
   "scripts": {
-    "start": "parcel currencyapp.html",
-    "build": "parcel build currencyapp.html"
+    "start": "parcel index.html",
+    "build": " parcel build index.html"
   },
   "keywords": [],
   "author": "",
