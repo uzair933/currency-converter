@@ -12,7 +12,7 @@
 60C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@swc134074016859942960 1
 117C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.abi115.node134074016259278323 0
 87C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\regions\BE.js134074016448014365 0
-47C:\Users\hp\Desktop\process\Practice\js\p1\dist134074176087809509 1
+47C:\Users\hp\Desktop\process\Practice\js\p1\dist134074181920431682 1
 71C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\semver\index.js134074016364258025 0
 123C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0\package.json134074016412740759 0
 63C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\is-glob134074016238162671 1
@@ -1031,7 +1031,7 @@
 73C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\types\lib134074016264517685 1
 87C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\caniuse-lite\data\regions\DZ.js134074016685920754 0
 79C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\node-addon-api\index.js134074016356334455 0
-71C:\Users\hp\Desktop\process\Practice\js\p1\dist\currencyapp.d312f45a.js134074021934720583 0
+71C:\Users\hp\Desktop\process\Practice\js\p1\dist\currencyapp.d312f45a.js134074181422351516 0
 109C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@swc\helpers\cjs\_class_static_private_method_get.cjs134074016392700703 0
 92C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\node-addon-api\napi-inl.deprecated.h134074016275942357 0
 90C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\graph\lib\AdjacencyList.js134074016276682600 0
@@ -2691,7 +2691,7 @@
 109C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@swc\helpers\cjs\_class_private_field_destructure.cjs134074016369038031 0
 101C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@swc\helpers\cjs\_class_private_field_get.cjs134074016371700848 0
 102C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@swc\helpers\cjs\_class_private_field_init.cjs134074016378649120 0
-75C:\Users\hp\Desktop\process\Practice\js\p1\dist\currencyapp.d312f45a.js.map134074021934840553 0
+75C:\Users\hp\Desktop\process\Practice\js\p1\dist\currencyapp.d312f45a.js.map134074181422751689 0
 92C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\package-manager\lib\index.js134074016302038498 0
 107C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@swc\helpers\cjs\_class_private_field_loose_key.cjs134074016380800783 0
 85C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\packager-wasm\LICENSE134074016228382475 0
@@ -3286,7 +3286,7 @@
 73C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\graph\lib134074016376429203 1
 82C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@lezer\common\package.json134074016339861446 0
 74C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\graph\test134074016356404475 1
-75C:\Users\hp\Desktop\process\Practice\js\p1\dist\currencyapp.95120e65.js.map134074176087769253 0
+75C:\Users\hp\Desktop\process\Practice\js\p1\dist\currencyapp.95120e65.js.map134074181920391699 0
 94C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\error-overlay\lib\index.js.map134074016423270862 0
 96C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\graph\test\AdjacencyList.test.js134074016319569513 0
 88C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\graph\test\Graph.test.js134074016362288072 0
@@ -3334,7 +3334,7 @@
 117C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\error-overlay\src\containers\RuntimeErrorContainer.js134074016384510671 0
 107C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\error-overlay\src\components\CloseButton.js134074016262367665 0
 105C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\error-overlay\src\components\CodeBlock.js134074016276262342 0
-71C:\Users\hp\Desktop\process\Practice\js\p1\dist\currencyapp.95120e65.js134074176087309847 0
+71C:\Users\hp\Desktop\process\Practice\js\p1\dist\currencyapp.95120e65.js134074181920141711 0
 90C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\error-overlay\lib\index.js134074016362108013 0
 78C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\diagnostic\lib134074016314289483 1
 82C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\@parcel\diagnostic\LICENSE134074016228422469 0
@@ -3523,4 +3523,4 @@
 67C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\.bin\semver134074016768442927 0
 83C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\.bin\update-browserslist-db134074016768562867 0
 87C:\Users\hp\Desktop\process\Practice\js\p1\node_modules\.bin\update-browserslist-db.cmd134074016768442927 0
-64C:\Users\hp\Desktop\process\Practice\js\p1\dist\currencyapp.html134074176087309847 0
+64C:\Users\hp\Desktop\process\Practice\js\p1\dist\currencyapp.html134074181422341705 0

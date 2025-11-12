@@ -207,11 +207,11 @@
       });
     }
   }
-})({"16Zhf":[function(require,module,exports,__globalThis) {
+})({"fkoSb":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
-var HMR_SERVER_PORT = 1234;
+var HMR_SERVER_PORT = 56909;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "439701173a9199ea";
 var HMR_USE_SSE = false;
@@ -740,6 +740,6 @@ convertButton.addEventListener("click", function() {
     fetchi(from, to, amount);
 });
 
-},{}]},["16Zhf","785gi"], "785gi", "parcelRequiree364", {})
+},{}]},["fkoSb","785gi"], "785gi", "parcelRequiree364", {})
 
 //# sourceMappingURL=currencyapp.d312f45a.js.map
